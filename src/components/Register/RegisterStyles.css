@@ -1,0 +1,9 @@
+.register {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.12), 0 10px 15px rgba(0, 0, 0, 0.24);
+  margin-top:30px;
+}

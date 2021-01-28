@@ -1,0 +1,39 @@
+.productList {
+  display: flex;
+  justify-content: space-evenly;
+  background: white;
+  border-radius: 12px;
+  margin-top: 15px;
+}
+
+.productList  img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.productList_details {
+  margin: 20px;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.productList_buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: max-content;
+}
+
+.productList_buttons  button {
+  margin: 5px;
+}
+
+.product__rating {
+  display: flex;
+  flex-direction: row;
+}

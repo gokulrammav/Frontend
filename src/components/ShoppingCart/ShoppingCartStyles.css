@@ -1,0 +1,14 @@
+.shoppingcart {
+  margin-top: 20px;
+  padding: 40px;
+}
+.shoppingcart__tableTitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 24px;
+}
+
+.shoppingcart__tableTitle > p {
+  margin-bottom: 2px;
+}
